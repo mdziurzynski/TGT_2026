@@ -1,8 +1,10 @@
 # Lab 1: Techniques in Genomics and Transcriptomics
 
 **Instructor:** dr Mikołaj Dziurzyński
+
 **Date:** 25.02.2026
-**Institute:** Institute of Evolutionary Biology
+
+**Institute of Evolutionary Biology, Faculty of Biology, University of Warsaw**
 
 ---
 
