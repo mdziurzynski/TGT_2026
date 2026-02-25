@@ -106,7 +106,10 @@ Access via browser at `localhost:your_port`.
 * **Organism:** Filamentous fungus (high lipid content for biodiesel)
 * **Genome Size:** ~22 Mbp
 * **Reads:** Illumina (short) and Nanopore (long)
+    * **Short reads:** `SRR26874108_1.fastq.gz & SRR26874108_2.fastq.gz`
+    * **Long reads:** `SRR26874107.fastq.gz`
 * **Location:** `/opt/teaching/tgt_2026/lab_1`
+
 
 **Symlink setup:**
 
