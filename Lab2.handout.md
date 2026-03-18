@@ -143,11 +143,11 @@ Refer to the official documentation for specific command flags:
 The required input data (BLAST hits and mappings) are located at:
 
 ```
-/opt/teaching/tgt_2026/lab_2/blobtools/dataset_1
+/opt/teaching/tgt_2026/lab_2/blobtools/blobtools_dataset_1/
 ```
 
 ```
-/opt/teaching/tgt_2026/lab_2/blobtools/dataset_2
+/opt/teaching/tgt_2026/lab_2/blobtools/blobtools_dataset_2/
 ```
 
 ---
