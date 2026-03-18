@@ -1,0 +1,27 @@
+name: genemark_env
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.8
+  - perl=5.32.1
+  - perl-yaml=1.30
+  - perl-parallel-forkmanager
+  - perl-mce
+  - perl-bioperl
+  - perl-hash-merge
+  - samtools
+  - hisat2
+  - star
+  - minimap2
+  - gffread
+  - gffutils
+  - bedtools
+  - numpy
+  - scipy
+  - matplotlib
+  - pandas
+  - biopython
+  - parallel
+  - wget
